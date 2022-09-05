@@ -1,0 +1,5 @@
+asyncio
+findall
+colorama
+rainbowtext
+pyfiglet
