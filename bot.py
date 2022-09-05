@@ -136,7 +136,7 @@ async def main():
 	
 	while(1):
 		for link in links:
-			sleep(0)
+			sleep(5)
 			t:bool=False
 			count:int=0
 			limit:int=5
