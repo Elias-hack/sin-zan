@@ -38,7 +38,7 @@ x = """⠀
 bot = Rubika  ("atkiflsgqchnvqyaohgnjuogsvjzsage")
 channel_guid : str = ("c0Ee9X09008b057804dadf8f941e305a")
 
-post_link: str = ("https://rubika.ir/upload_elias/CHHAGDEEDFHGBFI")
+post_link: str = ("https://rubika.ir/upload_elias/CHHDJFFJADJIBFI")
 
 green='\033[32m'
 darkblue = '\033[34m' 
